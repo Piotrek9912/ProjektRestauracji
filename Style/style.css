@@ -1,1 +1,28 @@
-jabdsiad
+*{
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main{
+    top: 1450px;
+    left: 800px;
+}
+
+.login{
+    background-color:grey;
+
+}
+
+.menu{
+
+}
+
+.head{
+
+}
+
+.body{
+
+}
