@@ -1,6 +1,7 @@
 *{
-    background-color: black;
-    color: white;
+    /*background-color: black;
+    color: white;*/
+    margin: 0px;
     font-size: 16px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -11,18 +12,56 @@
 }
 
 .login{
-    background-color:grey;
+    height: 30px;
+    background-color:brown;
+    border: 2px solid yellow;
 
+
+}
+
+.mainmenu{
+    background-color:black;
+    position: absolute;
+    top:11px;
+    left:900px;
+    color:green;
 }
 
 .menu{
+    height: 70px;
+    background-color:red;
+    border: 0.5px solid yellow;
+}
 
+.console>a{
+    float: left;
+    margin: 5px;
+    display: block;
+    font-size: 25px;
+    color: white;
+    position: relative;
+    left: 100px;
+    padding-left: 55px;
+    
+    
 }
 
 .head{
+    height: 250px;
+    background-color:white;
+    border: 0.1px solid yellow;
+}
 
+.find{
+    position: absolute;
+    text-align: center;
+    top: 150px;
+    left: 550px;
+    font-size: 40px;
 }
 
 .body{
-
+    height: 280px;
+    background-color:green;
+    
 }
